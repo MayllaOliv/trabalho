@@ -1,0 +1,100 @@
+#img1{
+    width: 1865px;
+    height: 200px;
+}
+
+#gif{
+    width: 420px;
+    height: 200px;
+    position: relative;
+    bottom: 204px;
+    left: 670px;
+}
+
+#um{
+    width: 400px; 
+    height: 400px;
+    background-color: rgb(160, 207, 209);  
+    text-align: center;
+    position: relative;
+    left: 200px;
+}
+
+#img2{
+    width: 300px; 
+    height: 300px;  
+}
+
+#dois{
+    width: 400px; 
+    height: 400px;
+    background-color: rgb(160, 207, 209);  
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    left: 700px;
+}
+
+#img3{
+    width: 300px; 
+    height: 300px;  
+}
+
+#tres{
+    width: 400px; 
+    height: 400px;
+    background-color: rgb(160, 207, 209);  
+    text-align: center;
+    position: relative;
+    bottom: 900px;
+    left: 1200px;
+}
+
+#img4{
+    width: 300px; 
+    height: 300px;  
+}
+
+#texto1{
+    font-size: large;
+    line-height: 1.6;
+    text-align:right;
+    width: 800px;
+    position: relative;
+    bottom: 700px;
+    left: 800px;
+    text-align: justify;
+}
+
+#titulo1{
+    font-size: large;
+    text-align:right;
+    width: 800px;
+    position: relative;
+    bottom: 950px;
+    left: 800px;
+    text-align: justify;
+}
+
+#valor1{
+    font-size: large;
+    text-align:right;
+    width: 800px;
+    position: relative;
+    bottom: 750px;
+    left: 1060px;
+    text-align: justify;
+    color: red;
+    text-decoration: line-through;
+}
+
+#valor2{
+    font-size: large;
+    text-align:right;
+    width: 800px;
+    position: relative;
+    bottom: 750px;
+    left: 1060px;
+    text-align: justify;
+    color: rgb(78, 151, 127);
+}
