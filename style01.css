@@ -98,3 +98,11 @@
     text-align: justify;
     color: rgb(78, 151, 127);
 }
+
+#clique{
+    width: 280px; 
+    height: 280px;
+    position: relative;
+    bottom: 500px;
+    left: 50px;
+}
