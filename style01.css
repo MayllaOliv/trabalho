@@ -98,3 +98,60 @@
     text-align: justify;
     color: rgb(78, 151, 127);
 }
+
+#norelative{
+    width: 400px; 
+    height: 400px;
+    background-color: rgb(160, 207, 209);  
+    text-align: center;
+    left: 200px;
+}
+
+#norelative1{
+    width: 400px; 
+    height: 400px;
+    background-color: rgb(160, 207, 209);  
+    text-align: center;
+    
+  
+}
+
+#norelative2{
+    width: 400px; 
+    height: 400px;
+    background-color: rgb(160, 207, 209);  
+    text-align: center;
+    
+}
+
+#text{
+    font-size: large;
+    line-height: 1.6;
+    text-align:right;
+    width: 800px;
+    text-align: justify;
+}
+
+#titul1{
+    font-size: large;
+    text-align:right;
+    width: 800px;
+    text-align: justify;
+}
+
+#valor01{
+    font-size: large;
+    text-align:right;
+    width: 800px;
+    text-align: justify;
+    color: red;
+    text-decoration: line-through;
+}
+
+#valor02{
+    font-size: large;
+    text-align:right;
+    width: 800px;
+    text-align: justify;
+    color: rgb(78, 151, 127);
+}
